@@ -7,9 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <header>
-        @include("partials.navbar")
-    </header>
-    @include("partials.footer")
+
 </body>
 </html>
